@@ -1,0 +1,15 @@
+{
+  "name": "DummyProject",
+  "devDependencies": {
+    "web-component-tester": "^6.0.0"
+  },
+  "resolutions": {
+    "polymer": "^2.0.0",
+    "webcomponentsjs": "^1.0.0"
+  },
+  "dependencies": {
+    "polymer": "^2.1.0",
+    "webcomponentsjs": "^1.0.14"
+  },
+  "private": true
+}
