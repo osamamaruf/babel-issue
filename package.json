@@ -1,0 +1,15 @@
+{
+  "name": "polymerbuildissue",
+  "version": "1.0.0",
+  "description": "temp project",
+  "scripts": {
+    "build": "polymer build"
+  },
+  "author": "osama maruf",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-exec": "^3.0.0",
+    "grunt-force-task": "^2.0.0",
+    "grunt-crisper": "^1.0.1"
+  }
+}
